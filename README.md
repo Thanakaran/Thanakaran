@@ -73,12 +73,5 @@ A hardware project ensuring milk quality using sensors for pH, temperature, gas,
 
 ---
 
-## 📫 How to Reach Me
-Feel free to reach out for collaboration, discussions, or opportunities:
 
-- **Email**: [rasenthiramthana2399@gmail.com](mailto:rasenthiramthana2399@gmail.com)
-- **LinkedIn**: [Thanakaran Rasenthiram](https://www.linkedin.com/in/thanakaran-rasenthiram-b19652255/)
-- **GitHub**: [R-Thanakaran](https://github.com/Thanakaran)
-
----
 
