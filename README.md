@@ -1,10 +1,12 @@
 ## 👋 About Me
 Hi, I’m **Thanakaran Rasenthiram**, a motivated undergraduate studying **B.Sc. (Hons) in Information Technology** at the University of Moratuwa, Sri Lanka. With a strong foundation in software development, I specialize in web and mobile development and love solving problems with technology.
 
-- **GitHub**: [R-Thanakaran](https://github.com/Thanakaran)
-- **LinkedIn**: [Thanakaran Rasenthiram](https://www.linkedin.com/in/thanakaran-rasenthiram-b19652255/)
-- **Email**: [rasenthiramthana2399@gmail.com](mailto:rasenthiramthana2399@gmail.com)
-- **Phone**: +94 77 629 6517
+# Contact Me
+
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) [R-Thanakaran](https://github.com/Thanakaran)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [Thanakaran Rasenthiram](https://www.linkedin.com/in/thanakaran-rasenthiram-b19652255/)
+- ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square) [rasenthiramthana2399@gmail.com](mailto:rasenthiramthana2399@gmail.com)
+- ![Phone](https://img.shields.io/badge/-Phone-25D366?logo=whatsapp&logoColor=white&style=flat-square) [+94 77 629 6517](tel:+94776296517)
 
 ---
 
