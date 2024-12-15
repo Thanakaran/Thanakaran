@@ -1,7 +1,3 @@
-# Thanakaran Rasenthiram - Software Engineering Intern
-
-![Profile Image](path/to/your/profilePhoto.jpg)
-
 ## 👋 About Me
 Hi, I’m **Thanakaran Rasenthiram**, a motivated undergraduate studying **B.Sc. (Hons) in Information Technology** at the University of Moratuwa, Sri Lanka. With a strong foundation in software development, I specialize in web and mobile development and love solving problems with technology.
 
@@ -44,23 +40,14 @@ A hardware project ensuring milk quality using sensors for pH, temperature, gas,
 
 ---
 
-## 🏆 Achievements
-- **Hackathon XTREME 2023** (IESL UOM IESL YMS)
-- **Hackathon ENIGMA ‘24**
+
 
 ---
 
-## 🎯 Extra-Curricular Activities
-- **Sports**: Marathon, 5km Run, 800m Run, 1500m Run
-- **Chess**: Competed at school-level tournaments (2009–2018)
-- **Carrom**: Participated in school tournaments (2015–2018)
 
 ---
 
-## 🌐 Languages
-- **English**: Professional proficiency  
-- **Tamil**: Native proficiency  
-- **Sinhala**: Elementary proficiency  
+
 
 ---
 
