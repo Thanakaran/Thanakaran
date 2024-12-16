@@ -20,7 +20,7 @@ Hi, I’m **Thanakaran Rasenthiram**, a motivated undergraduate studying **B.Sc.
 ### Programming Languages
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+
 
 ### Frameworks & Libraries
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
